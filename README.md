@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @thedevz29
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 📫 Reach me on atharv.sharma2912@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I can genrate many new ideas and make the logic
