@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thedevz29
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML,CSS and JS
 - 📫 Reach me on atharv.sharma2912@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I can genrate many new ideas for businesses
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Im ambitious 
