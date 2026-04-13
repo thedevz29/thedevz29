@@ -16,6 +16,6 @@ I write Python, ship projects, and keep leveling up. Currently diving into **PyT
 - 📈 Always shipping, always iterating
 
 ## 🔗 Let’s Connect
-💼 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Community](#) | 🐙 [GitHub](#)
+💼 [LinkedIn](Atharv Sharma) | 📧 [Email](atharv.sharma2912@gmail.com) | 🌐 [Community](NexSemble) | 🐙 [GitHub](thedevz29)
 
 > *“Code. Connect. Repeat.”* ✨
